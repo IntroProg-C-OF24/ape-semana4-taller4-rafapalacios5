@@ -1,4 +1,7 @@
-
+/* 
+Generar un algoritmo que permita calcular y mostrar el valor de la planilla de teléfono de un casa. 
+Se debe ingresar el costo por minutos, el número de minutos consumidos en el mes.
+*/
 package ape_semana4_soluciones;
 import java.util.Scanner;
 public class PlanillaCasa_4 {
